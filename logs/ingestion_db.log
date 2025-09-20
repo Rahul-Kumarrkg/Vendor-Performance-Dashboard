@@ -1,0 +1,38 @@
+2025-09-20 20:52:01,932 - INFO - --------------- Ingestion Complete ---------------
+2025-09-20 20:52:01,932 - INFO - 
+Total Time Taken: 1.5747547149658202e-05 minutes
+2025-09-20 20:52:02,312 - INFO - Ingesting begin_inventory.csv in db
+2025-09-20 20:52:04,022 - INFO - --------------- Ingestion Complete ---------------
+2025-09-20 20:52:04,022 - INFO - 
+Total Time Taken: 0.03485114574432373 minutes
+2025-09-20 20:52:04,022 - INFO - --------------- Ingestion Complete ---------------
+2025-09-20 20:52:04,022 - INFO - 
+Total Time Taken: 0.034854857126871745 minutes
+2025-09-20 20:52:04,352 - INFO - Ingesting end_inventory.csv in db
+2025-09-20 20:52:07,514 - INFO - --------------- Ingestion Complete ---------------
+2025-09-20 20:52:07,515 - INFO - 
+Total Time Taken: 0.09306137164433798 minutes
+2025-09-20 20:52:12,712 - INFO - Ingesting purchases.csv in db
+2025-09-20 20:53:24,613 - INFO - --------------- Ingestion Complete ---------------
+2025-09-20 20:53:24,613 - INFO - 
+Total Time Taken: 9.290377298990886e-06 minutes
+2025-09-20 20:53:24,959 - INFO - Ingesting begin_inventory.csv in db
+2025-09-20 20:53:57,577 - INFO - --------------- Ingestion Complete ---------------
+2025-09-20 20:53:57,578 - INFO - 
+Total Time Taken: 0.5494197130203247 minutes
+2025-09-20 20:53:57,578 - INFO - --------------- Ingestion Complete ---------------
+2025-09-20 20:53:57,578 - INFO - 
+Total Time Taken: 0.549424393971761 minutes
+2025-09-20 20:53:58,010 - INFO - Ingesting end_inventory.csv in db
+2025-09-20 20:54:01,820 - INFO - --------------- Ingestion Complete ---------------
+2025-09-20 20:54:01,820 - INFO - 
+Total Time Taken: 0.6201355894406636 minutes
+2025-09-20 20:54:08,471 - INFO - Ingesting purchases.csv in db
+2025-09-20 20:54:58,451 - INFO - --------------- Ingestion Complete ---------------
+2025-09-20 20:54:58,452 - INFO - 
+Total Time Taken: 1.5639873544375102 minutes
+2025-09-20 20:54:58,871 - INFO - Ingesting purchase_prices.csv in db
+2025-09-20 20:54:59,021 - INFO - --------------- Ingestion Complete ---------------
+2025-09-20 20:54:59,021 - INFO - 
+Total Time Taken: 1.5734816551208497 minutes
+2025-09-20 20:55:27,157 - INFO - Ingesting sales.csv in db
